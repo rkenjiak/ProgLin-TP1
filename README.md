@@ -1,4 +1,4 @@
-# Progamação Linear - TP1
+# Programação Linear - TP1
 
 ## Crie diretorio bin
 ```
